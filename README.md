@@ -2,7 +2,7 @@
 
 A visually stunning single-page website showcasing a compilation of urban landscape videos.
 
-![Live Demo Screenshot](https://via.placeholder.com/1200x600.png?text=Add+a+screenshot+of+your+website+here)
+![Live Demo Screenshot](urban-landscapes.png)
 
 ## 🚀 Live Demo
 
